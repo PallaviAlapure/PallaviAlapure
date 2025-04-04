@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Pallavi Alapure! 🚀 </h1>
 
-<h3 align="center">💡 **Experienced Test Engineer | QA Automation Specialist | AI & Data Science Enthusiast**</h3>
+<h3 align="center">💡 Experienced Test Engineer | QA Automation Specialist | AI & Data Science Enthusiast</h3>
 
 > **_"If it ain't tested, it ain't shipped!"_**
 
