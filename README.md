@@ -101,7 +101,7 @@
 ### 🌐 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pallavi-alapure">
+  <a href="https://www.linkedin.com/in/pallavi-alapure-89773922b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pallavi.alapure@gmail.com">
