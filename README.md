@@ -2,7 +2,7 @@
 
 <h3 align="center">💡 Experienced Test Engineer | QA Automation Specialist | AI & Data Science Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F72E&width=500&lines=Quality+Advocate+and+Automation+Architect;Data+Science+and+Generative+AI+Learner" alt="Header Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F72E&width=500&lines=Quality+Advocate+and+Automation+Architect;Data+Science+and+Generative+AI+Enthusiast" alt="Header Animation">
 </p>
 
 > **_"If it ain't tested, it ain't shipped!"_**
