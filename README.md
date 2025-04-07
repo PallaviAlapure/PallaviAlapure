@@ -81,7 +81,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-**Operating Systems & Shells** ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+**Operating Systems & Shells-** ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
