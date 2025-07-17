@@ -12,7 +12,7 @@
 ---
 
 ### 🔥 About Me  
-- 🔹 **1+ years** of experience in **Software Testing & QA Automation**  
+- 🔹 **2+ years** of experience in **Software Testing & QA Automation**  
 - 🔹 Passionate about **QA Automation, CI/CD, Performance Testing, Data Science (Generative AI)**  
 - 🔹 Love experimenting with **AI-driven results & self-healing scripts** 🤖  
 - 🔹 Always on the hunt for **the perfect test strategy, model building & evaluation** to balance speed & quality ⚖️  
