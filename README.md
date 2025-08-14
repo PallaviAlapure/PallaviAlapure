@@ -5,15 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F72E&width=500&lines=Quality+Advocate+and+Automation+Architect;Data+Science+and+Generative+AI+Enthusiastic" alt="Header Animation">
 </p>
 
-> **_"If it ain't tested, it ain't shipped!"_**
+> **_If it ain't analyzed, it ain't optimized!_**
 
-🕵️‍♀️ I ensure software is rock-solid before it reaches users! From writing test cases to building automation frameworks, I make sure that applications perform flawlessly in the wild.  
+🕵️‍♀️ I transform raw data into actionable insights! From data cleaning and model building to AI-driven automation and predictive analytics, I ensure that models are intelligent, scalable, and applications perform flawlessly in the real world.
 
 ---
 
-### 🔥 About Me  
-- 🔹 **2+ years** of experience in **Software Testing & QA Automation**  
-- 🔹 Passionate about **QA Automation, CI/CD, Performance Testing, Data Science (Generative AI)**  
+### 🔥 About Me
+- 🔹 **Currently Working as:** **Data Scientist** (with roots in Software Testing & QA Automation)  
+- 🔹 **2+ years** of experience in **Data Science, Test Engineering & Automation** 
+- 🔹 Passionate about **Model Building, QA Automation, CI/CD, Performance Testing, Data Science (Generative AI)**  
 - 🔹 Love experimenting with **AI-driven results & self-healing scripts** 🤖  
 - 🔹 Always on the hunt for **the perfect test strategy, model building & evaluation** to balance speed & quality ⚖️  
 - 🔹 Believe in **"Test early, test often, and automate smartly!"** ✅ 
@@ -22,10 +23,12 @@
 ---
 
 ### 💻 What I'm Working On
-- ✅ Building a scalable **Test Automation Framework**  
+- ✅ Building a scalable **Generative AI, Agentic AI, Framework**  
 - ✅ Exploring **AI-powered Testing** with Machine Learning 🤖  
-- ✅ Enhancing **API & Performance Testing Strategies**  
-- ✅ Diving into **Data Science** for predictive testing models! 📊  
+- ✅ Enhancing **API & Performance Testing Strategies**
+- ✅ Applying **ML & NLP techniques** to drive intelligent QA & automation solutions  
+- ✅ Diving into **Data Science** for predictive testing models! 📊
+- ✅ Exploring **Data Pipelines, VectorDB, and LangChain for RAG systems**   
 
 ---
 
